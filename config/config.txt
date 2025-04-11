@@ -190,7 +190,7 @@ PUBLIC_ADDRESS ss13.thravalgur.ovh:5335
 FORUMURL https://discord.gg/6mbvStH7t5
 
 ## Wiki address
-# WIKIURL http://tgstation13.org/wiki
+WIKIURL https://ss13.thravalgur.ovh/exowiki/index.php/Accueil
 
 ## Rules address
 # RULESURL http://tgstation13.org/wiki/Rules
